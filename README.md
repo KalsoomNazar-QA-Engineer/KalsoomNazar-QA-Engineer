@@ -1,16 +1,5 @@
-[
-
-](https://readme-typing-svg.demolab.com)
-
-[
-
-](#)
-[
-
-](#)
-[
-
-](#)
+Hi 👋, I'm Kalsoom Nazar
+Aspiring SQA Engineer | Manual SQA | API Testing | SQL | Jira
 
 ---
 
