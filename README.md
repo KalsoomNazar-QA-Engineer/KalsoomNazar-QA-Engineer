@@ -51,7 +51,5 @@
 
 ---
 
-📬 Always open to connecting with QA professionals and developers. Looking forward to impactful opportunities like the **CMIT Internship Program** to deliver high-quality assurance.
-
 * Let's connect on [LinkedIn](https://linkedin.com) 🚀
 
