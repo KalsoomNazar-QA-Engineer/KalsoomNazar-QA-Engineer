@@ -51,5 +51,7 @@
 
 ---
 
-* Let's connect on [LinkedIn](https://linkedin.com) 🚀
+## 🌐 Socials & Contact
+[![LinkedIn](https://shields.io)](https://pk.linkedin.com/in/kalsoom-nazar) [![email](https://shields.io)](mailto:kalsoomnazar44@gmail.com)
+
 
