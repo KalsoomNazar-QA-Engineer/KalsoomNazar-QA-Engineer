@@ -1,58 +1,59 @@
 # Hi, I'm Kalsoom Nazar 👋
-### BSSE Graduate | Aspiring QA Engineer | 3.48 CGPA | Delivering Bug-Free Deployments through Rigorous QA
 
----
+**BSSE Graduate | Aspiring QA Engineer | Manual & API Testing | Learning Playwright + Python**
 
-## 🛠️ Proof of Expertise & Core QA Checklist
-*My profile shows I can learn, but this checklist shows what I can actually apply, document, and test.*
+I am building my QA skills through hands-on projects. Each project below has a link, so you can see the actual work.
 
-- [x] **Manual Testing Expertise** — Functional, Regression, Smoke, and Sanity Testing workflows.
-- [x] **Test Documentation** — Creating structured Positive/Negative Test Cases, Scenarios, and Bug Reports.
-- [x] **Defect Management** — Comprehensive tracking through the Bug Life Cycle using **JIRA**.
-- [x] **Deployments & GitHub** — Verifying live application deployments and maintaining clean documentation repositories.
+## 🚀 Projects
 
----
+### 1. Playwright Python Login Test Automation
+Automated UI tests for a login page using Playwright, Python and pytest.
+- 6 automated test scenarios (positive and negative)
+- Page Object Model to keep locators separate from test logic
+- GitHub Actions CI pipeline: tests run automatically on every push
+- 🔗 [Repository](https://github.com/KalsoomNazar-QA-Engineer/playwright-python-login-tests)
 
-## 🎯 Continuous Learning Roadmap (Manual-to-Automation Pipeline)
-*I believe in mastering the logical layers of Manual QA before jumping into Automation frameworks.*
+### 2. Manual Testing Portfolio
+Test cases, scenarios, severity and priority examples, and API response validation practice.
+- 🔗 [Repository](https://github.com/KalsoomNazar-QA-Engineer/qa-manual-testing-portfolio)
 
-### Phase 1: Core Manual QA & Documentation (🏆 Completed & Applied)
-- [x] Mastered SDLC vs STLC frameworks & Agile methodologies.
-- [x] Designed detailed Test Cases, Traceability Matrices, and Test Scenarios.
-- [x] Handled Standard Bug Reporting (Steps to Reproduce, Severity, Log Tracking).
-- [x] Verified live deployments using Git & GitHub version control.
+### 3. Login Module Test Cases
+Structured positive and negative test cases for a login page.
+- 🔗 [Google Sheet](https://docs.google.com/spreadsheets/d/1gCo5v2rwcEJh7uMWXoTl6VyL1oSgsLuadzKPMbgkctU/edit?usp=sharing)
 
-### Phase 2: API Testing & Database Basics (⏳ Active Learning Phase)
-- [x] HTTP methods and status codes verification.
-- [/] Manual API verification and endpoint testing using **Postman**.
-- [ ] Backend database validation writing **SQL / MySQL** queries.
+## 🛠️ Skills
 
-### Phase 3: Scripting & Automation Foundations (🚀 Upcoming Phase)
-- [ ] Core programming logic using **Python** fundamentals (OOPs, Loops, Functions).
-- [ ] Dynamic UI Automation using **Playwright with Python**.
-- [ ] Framework structural design using Page Object Model (POM) and data-driven testing.
+| Area | What I have practiced | Proof |
+|---|---|---|
+| Manual Testing | Test cases, test scenarios, bug reporting, severity and priority | [Manual Testing Portfolio](https://github.com/KalsoomNazar-QA-Engineer/qa-manual-testing-portfolio) |
+| UI Automation | Playwright with Python, pytest, Page Object Model | [Playwright project](https://github.com/KalsoomNazar-QA-Engineer/playwright-python-login-tests) |
+| CI/CD | GitHub Actions workflow running tests on every push | [Playwright project](https://github.com/KalsoomNazar-QA-Engineer/playwright-python-login-tests) |
+| Version Control | Git and GitHub | This profile |
+| Defect Tracking | JIRA | 🔄 In progress |
+| API Testing | Postman, HTTP methods and status codes | 🔄 In progress |
+| Database Basics | SQL / MySQL queries | 🔄 In progress |
 
----
+## 🎯 Learning Roadmap
 
-## 📅 Daily Execution & Learning Log
-*Verifiable proof of consistent hands-on testing application.*
+**Phase 1: Manual QA and Documentation** ✅
+- SDLC and STLC, Agile basics
+- Test cases, test scenarios, bug reports
 
-| Timeline | Core Task / Scenario Covered | Technical Progress Status |
-| :---: | :--- | :--- |
-| **Day 01** | Test Case Design for Authentication & Custom API Flows | 🟢 Completed & Documented |
-| **Day 02** | Logged live UI functional defects using standard formats | 🟢 Completed & Verified |
-| **Day 03** | Custom API endpoint verification via Postman setup | ⏳ In Progress |
+**Phase 2: Scripting and UI Automation** ✅
+- Python fundamentals
+- Playwright with Python, pytest
+- Page Object Model
+- GitHub Actions CI
 
----
+**Phase 3: API Testing and Databases** 🔄 In progress
+- Postman collections and assertions
+- SQL / MySQL basics
 
-## 🏆 Beyond Engineering & Sports Background
-- [x] **1st Position in Gymnastics** (Board & District Level) — High discipline, rigorous focus, and core consistency.
-- [x] **Cricket Champion** (University Interdepartmental) — Team collaboration, team leadership, and strategic planning under pressure.
-
----
-
-## 🌐 Socials & Contact
-[![LinkedIn](https://shields.io)](https://pk.linkedin.com/in/kalsoom-nazar) [![email](https://shields.io)](mailto:kalsoomnazar44@gmail.com)
-
-
-
+**Phase 4: Next** ⏳
+- Larger automation project on SauceDemo (cart, checkout, sorting)
+- Data-driven testing
+- API test automation with Python
+## 📫 Contact
+- GitHub: [KalsoomNazar-QA-Engineer](https://github.com/KalsoomNazar-QA-Engineer)
+- LinkedIn: [kalsoom-nazar](https://www.linkedin.com/in/kalsoom-nazar)
+- Email: kalsoomnazar44@gmail.com
