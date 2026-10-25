@@ -20,7 +20,9 @@ Test cases, scenarios, severity and priority examples, and API response validati
 ### 3. Login Module Test Cases
 Structured positive and negative test cases for a login page.
 - 🔗 [Google Sheet](https://docs.google.com/spreadsheets/d/1gCo5v2rwcEJh7uMWXoTl6VyL1oSgsLuadzKPMbgkctU/edit?usp=sharing)
-
+## Next Steps
+- Larger automation project on SauceDemo (login, sorting, cart, checkout)
+- Data-driven tests
 ## 🛠️ Skills
 
 | Area | What I have practiced | Proof |
